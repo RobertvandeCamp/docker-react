@@ -61,7 +61,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+The application will be build by Travis and deployed to AWS Elastic Beanstalk.
 
 ### `npm run build` fails to minify
 
